@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    max-width: 1920px;
+    height: 700px;
+    background-image: url(../../images/header-fon.svg);
+    background-color: rgba(233, 222, 212, 1);
+
+}
